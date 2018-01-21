@@ -84,10 +84,7 @@ namespace Vehicule
             return PRK.CompareTo(((Vehicule)obj).PRK);
         }
         
-        /*public int CompareTo(object obj)
-        {
-            return PRK.CompareTo(((Vehicule)obj).PRK);
-        }*/
+        
         
         
         public int CompareTo(object obj)
